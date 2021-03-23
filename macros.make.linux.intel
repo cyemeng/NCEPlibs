@@ -4,7 +4,7 @@
 RM         = rm -f
 AR         = ar
 ARFLAGS    =
-FC         = mpiifort
+FC         = mpifort
 FCserial   = ifort
 CC         = icc
 
